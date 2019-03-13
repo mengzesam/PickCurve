@@ -1,7 +1,7 @@
 TODO:
 
 2019.3.13
-1. table item 输入检查，限制数字输入
+1. table item 输入检查，限制只能数字输入
 2. table 拾取的数据复制功能
 3. 能将粘贴版数据粘贴到table
 4. 加载图片方式除了打开文件，需要增加直接粘贴到image container
